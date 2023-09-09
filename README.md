@@ -3,12 +3,14 @@ Je suis Blanchar, un étudiant en Web à HEPL, et j'entame l'année diplômante 
 
 ## Durant mes études, j'ai appris
 
-### Plusieurs langages de programmation
+### Plusieurs langages de programmation et framework
 - HTML
 - CSS
 - Javascript
 - Typescript
 - PHP
+- Flutter
+- Laravel (soon)
 
 ### Plusieurs concepts web
 - L'utilisabilité
