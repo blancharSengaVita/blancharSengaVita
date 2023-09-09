@@ -1,16 +1,33 @@
-### Hi there 👋
+# Salut 👋
+Je suis Blanchar, un étudiant en Web à HEPL, et j'entame l'année diplômante de mon cursus.
 
-<!--
-**blancharSengaVita/blancharSengaVita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Durant mes études, j'ai appris
 
-Here are some ideas to get you started:
+### Plusieurs langages de programmation
+- HTML
+- CSS
+- Javascript
+- Typescript
+- PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Plusieurs concepts web
+- L'utilisabilité
+- L'accessibilité
+- Les bonnes pratiques en matière de développement et d'intégration
+- L'optimisation des performances et des ressources
+- La rédaction de cahiers des charges
+- La typographie
+- L'identité et le branding
+- La rédaction de contenus et la communication au sens large
+- UI/UX design
+- Le responsive design
+
+### A utilisé des logiciels de conception graphique et de création visuelle
+- Figma
+- Illustrator
+- Photoshop
+- Adobe XD
+- Krita
+- Papier/crayon
+
+Sinon, je suis aussi passionné de League of Legends et d'animation japonaise.
