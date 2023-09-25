@@ -21,7 +21,6 @@ Je suis Blanchar, un étudiant en Web à HEPL, et j'entame l'année diplômante 
 - La rédaction de cahiers des charges
 - La typographie
 - L'identité et le branding
-- La rédaction de contenus et la communication au sens large
 - UI/UX design
 - Le responsive design
 
